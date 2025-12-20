@@ -1,4 +1,4 @@
-# AutomationZ Admin Orchestrator (Fixed build)
+# AutomationZ Admin Orchestrator
 
 This build fixes the “doesn’t open / incomplete folders” issue and adds **Local mode** + a **Settings** tab.
 
