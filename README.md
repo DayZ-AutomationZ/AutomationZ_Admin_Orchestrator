@@ -392,6 +392,8 @@ Displayed sender name.
 Settings are saved to:
 `config/settings.json`
 
+## Credits
+
 ---
 🧩 Part of AutomationZ Control Center
 This tool is part of the AutomationZ Admin Toolkit:
@@ -410,19 +412,12 @@ Together they form a complete server administration solution.
 
 AutomationZ tools are built for server owners by a server owner.  
 If these tools save you time or help your community, consider supporting development.
----
+
 ☕ Ko-fi: https://ko-fi.com/dannyvandenbrande  
 💬 Discord: https://discord.gg/6g8EPES3BP  
 
 Created by **Danny van den Brande**  
 DayZ AutomationZ
-
-
-Part of the **AutomationZ** project  
-Built to reduce admin workload and remove unnecessary manual server management.
-
-If this tool saves you time or stress, consider supporting development.
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 ☕ Ko-fi: https://ko-fi.com/dannyvandenbrande  
 💬 Discord: https://discord.gg/6g8EPES3BP  
 
