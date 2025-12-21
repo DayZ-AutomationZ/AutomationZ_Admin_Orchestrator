@@ -2,9 +2,6 @@
 
 Central automation and deployment toolkit for DayZ servers.
 
-Repository:
-https://github.com/DayZ-AutomationZ/AutomationZ_Admin_Orchestrator
-
 ---
 
 ## What is this?
