@@ -8,7 +8,7 @@ Central automation and deployment toolkit for Game servers / websites etc.
 
 AutomationZ Admin Orchestrator is the **core control system** of the AutomationZ ecosystem.
 
-It allows DayZ server administrators to:
+It allows server administrators to:
 
 - Deploy configuration presets safely
 - Apply changes to multiple servers or local installs
