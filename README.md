@@ -366,7 +366,7 @@ Useful for synced folders or external drives.
 ---
 
 ## Discord Webhook
-
+[![Orchestrator_Discord.png](https://i.postimg.cc/SNyXQ9JR/Orchestrator_Discord.png)](https://postimg.cc/QVyN0HgZ)
 ### Webhook URL
 Discord Incoming Webhook URL.
 
