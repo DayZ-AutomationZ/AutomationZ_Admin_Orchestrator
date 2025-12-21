@@ -1,4 +1,4 @@
-# AutomationZ Admin Orchestrator 👑
+# AutomationZ Admin Orchestrator 👑 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 
 Central automation and deployment toolkit for Game servers / websites etc.
 
