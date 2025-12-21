@@ -1,6 +1,6 @@
 # AutomationZ Admin Orchestrator 👑
 
-Central automation and deployment toolkit for DayZ servers.
+Central automation and deployment toolkit for Game servers / websites etc.
 
 ---
 
